@@ -1,8 +1,5 @@
 # Shanice
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shanicecreatesr&label=Profile%20views&color=e91e63&style=flat" alt="shanicecreates" /> </p>
-
-
 <h1 align="center">Hi 👋, I'm Shanice </h1>
 <h3 align="center">A Devoted Software Design and Development Student from University of Connecticut</h3>
 
@@ -15,6 +12,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/shanicemartin/](https://www.linkedin.com/in/shanicemartin/)
 
 - 🎶 Fun fact **I love Sports and Video Editing 🎷**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shanicecreatesr&label=Profile%20views&color=e91e63&style=flat" alt="shanicecreates" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
