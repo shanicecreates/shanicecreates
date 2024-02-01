@@ -11,7 +11,7 @@
 
 - 📄 Learn about my experiences [https://www.linkedin.com/in/shanicemartin/](https://www.linkedin.com/in/shanicemartin/)
 
-- 👩🏾‍💻🏀🎥 Fun fact **I love Learning New Technologies, Sports and Video Editing **
+- 👩🏾‍💻🏀🎥 Fun fact **I Love Learning New Technologies, Sports and Video Editing **
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shanicecreatesr&label=Profile%20views&color=e91e63&style=flat" alt="shanicecreates" /> </p>
 
 
