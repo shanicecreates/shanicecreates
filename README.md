@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **shanice.martin@uconn.edu**
+- 📫 How to reach me **shanicemart@gmail.com**
 
 - 📄 Learn about my experiences [https://www.linkedin.com/in/shanicemartin/](https://www.linkedin.com/in/shanicemartin/)
 
